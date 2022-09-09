@@ -1,5 +1,5 @@
 # Publift Fuse ads.txt #
-# Updated: Sep 2022 #
+# Updated: Sep 2022 test #
 # Contact: support@publift.com #
 
 
